@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "koa": "^2.6.2",
+    "log4js": "^3.0.6",
     "mailparser": "^2.4.3"
   },
   "devDependencies": {
