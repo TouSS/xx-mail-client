@@ -20,7 +20,8 @@
   "dependencies": {
     "koa": "^2.6.2",
     "log4js": "^3.0.6",
-    "mailparser": "^2.4.3"
+    "mailparser": "^2.4.3",
+    "mysql": "^2.16.0"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
